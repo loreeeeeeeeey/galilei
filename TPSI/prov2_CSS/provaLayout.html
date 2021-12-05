@@ -1,0 +1,84 @@
+<html>
+	<head>
+	<title>prova layout css</title>
+	<!-- il padding è la distanza del bordo da dove effettivamente può arivare il testo-->
+	<!-- il padding ed il border hanno in ordine top right bottom left (per indicare i pixel) -->
+	<style type="text/css">
+	.container{
+		border: solid 1px rgb(200,0,0);
+		margin: 30px 90px 30px 90px;
+	}
+	.navbar{
+		border: solid 1px rgb(0,200,0);
+		margin: 5px 5px 5px 5px;
+		text-align: center;
+	}
+	.navbar A:LINK{
+		
+		margin: 15px  15px 15px 15px;
+		color: rgb(0,0,0);
+		font-weight: Bold;
+		border-bottom: solid 5px rgb(50, 155, 56);
+	}
+	.navbar A:HOVER{
+		padding: 5px 15px 5px 15px;
+		color: rgb(200,0,0);
+		border-bottom: solid 5px rgb(200,0,0);
+	}
+	.navbar A:VISITED{
+		padding: 5px 15px 5px 15px;
+		color: rgb(0,0,0);
+	}
+	.testo{
+		border: solid 1px rgb(0,0,200);
+		padding: 5px 5px 5px 5px;
+		font-size: 1.2em;
+		font-family: 'Helvetica';
+		font-style: italic;
+		text-align: left;
+		margin-top: 15px;
+		margin-bottom: 15px;
+		margin-left: 15px;
+		margin-right: 15px;
+	}
+	.testo2{
+		color: purple;
+		background-color: lightgoldenrodyellow;
+		text-align: right;
+		border: solid 2px rgb(166,99,204);
+		margin: 16px 16px 16px 16px;
+	}
+	H2{
+		color: rgb(163, 28, 28);
+		margin: 10px 30px 10px 30px;
+		font-style: Bold;
+	}
+	/* fine navbar */
+	</style>
+	</head>
+	<body>
+		<div class="container">
+			<div class="navbar">
+				<a href="#">Home</a>
+				<a href="#">Chi sono</a>
+				<a href="#">Blog</a>
+				<a href="#">Contatti</a>
+				<a href="#">Link pinco pallo</a>
+			</div>
+			<h2>Titolo centrale senca bordi esterni</h2>
+			<div class="testo">
+			Uno scarabeo stercorario crea pallottole di sterco allo <br/>
+			scopo di trasportare più facilmente il <br/>
+			cibo verso un nascondiglio. Le pallottole di sterco servono come riserva di cibo, <br/>
+			o come protezione delle uova.
+			</div>
+			<div class="testo2">
+				Le orchidee azzurre le trovi meno frequentemente di quelle rosa.<br/>
+				Mentre inevece quelle bianche sono molto più diffuse, dato il loro colore molto chimico.<br/>
+				A differenza delle precedenti non troverai quasi mai quelle nere dato che non esistono.
+				Quindi se ti è piaciuta questa dettagliata ed estenuante guida alle orchidee da comprare<br/>
+				dona qui almeno qualche centinaio di euro per compassione apprezzando l'impegno.<br/>
+			</div>
+		</div>
+	</body>
+</html>
