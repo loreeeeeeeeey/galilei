@@ -1,3 +1,5 @@
+// esercizi svolti per la verifica di informatica in classe, caricare su github per averne una copia
+
 /*
  * Author:		Soffiati L.
  * Date:		06.12.2021
@@ -139,15 +141,3 @@ int main(){
 	
 	return 0;
 }
-
-
-
-
-
-
-
-
-
-
-
-
