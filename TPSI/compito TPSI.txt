@@ -1,0 +1,20 @@
+ARGOMENTO:
+circolo ricreativo giovanile
+
+
+PAGINE DEDICATE DA INSERIRE:
+CHI SIAMO	- consiglieri, segretari, referenti (inventati)
+I MEMBRI	- quali sono i membri, sport che fanno
+STORIA 		- dei giochi di ruolo
+CONTATTACI 	- modi di contatto
+
+
+- Sviluppare un piccolo sito web basato su HTML-CSS riguardante la tematica assegnata e rispettando le pagine richieste.
+- Dare particolare attenzione all’originalità delle informazioni, allo stile della pagina (leggibilità e bilanciamento tra testi e immagini)
+- Inserire immagini ri-elaborate ed adattate per il proprio lavoro.
+- Prestare attenzione ad allineamenti, dimensioni e proporzioni.
+- Deve essere sempre presente un menu che porti alle diverse pagine del proprio sito.
+
+CONSEGNARE IL COMPITO CON IL NOME DEL GRUPPO ED I RELATIVI COMPONENTI
+a voce in classe SPIEGARE IL CONTENUTO DEL CODICE,
+se abbiamo usato cose fatte in classe o tipo da w3school ma da saper spieagre come funziona
